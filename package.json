@@ -1,0 +1,37 @@
+{
+  "name": "gauss-random",
+  "version": "1.0.0",
+  "description": "Samples standard normal distribution",
+  "main": "sample.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "tape": "^3.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikolalysenko/gauss-random.git"
+  },
+  "keywords": [
+    "guass",
+    "gaussian",
+    "random",
+    "sample",
+    "variable",
+    "standard",
+    "normal",
+    "distribution",
+    "statistics"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/gauss-random/issues"
+  },
+  "homepage": "https://github.com/mikolalysenko/gauss-random"
+}
