@@ -1,13 +1,12 @@
 {
   "name": "gauss-random",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Samples standard normal distribution",
   "main": "sample.js",
   "directories": {
     "test": "test"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "tape": "^3.0.3"
   },
